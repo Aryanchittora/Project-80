@@ -1,0 +1,28 @@
+input {
+   margin: 10px;
+   border: 5px groove red;
+}
+button {
+    margin-left: 5px;
+}
+#Para_2 {
+    float: right;
+    margin-left: 1100px;
+}
+#main {
+    display: flex;
+}
+.paragraph {
+    margin-top: 100px;
+    background-color: red;
+    margin-left: 20px;
+    color: cyan;
+    border-radius: 20px;
+    text-align: left;
+    padding-left: 1pc;
+    font-size: 13px;
+}
+body {
+    text-align: center;
+    background-color: lightsteelblue;
+}
